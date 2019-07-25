@@ -23,3 +23,17 @@ a
 {border-radius:20px;}
 #cool{background:white;}
 
+#img-float {
+	float:left;
+	margin:40px;
+	width:300px;
+}
+.p-class{
+	margin:15px;
+	padding:15px;
+}
+#div-float{
+	border:solid 5px green;
+	background:red;
+	overflow:auto;
+}
